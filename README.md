@@ -1,2 +1,2 @@
-# stickerbook
-HTML5 Canvas Stickerbook
+# Sticker Book
+HTML5 Canvas Sticker book
