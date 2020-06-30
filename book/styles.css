@@ -29,3 +29,7 @@ body {
   cursor: pointer;
   border-width: 20px;
 }
+
+.sticker {
+  display: none;
+}
